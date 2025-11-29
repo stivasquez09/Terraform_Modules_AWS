@@ -6,7 +6,7 @@ Módulo reutilizable para crear Security Groups en AWS con Terraform.
 
 ```hcl
 module "sg_app" {
-  source = "git@github.com:stivasquez09/Terraform_Modules_AWS.git//SG?ref=v1.0.0"
+  source = "git::https://github.com/stivasquez09/Terraform_Modules_AWS.git//SG?ref=v1.0.0"
 
   name        = "app-sg"
   vpc_id      = "vpc-123456"

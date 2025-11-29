@@ -3,13 +3,11 @@ provider "aws" {
   default_tags {
     tags = {
       project = "LABS_Modules"
-      CostCenter = ""
-      Environment = ""
+      CostCenter = "10.20.30"
+      Environment = "DEV"
 
     }
   }
 
-  access_key = "AKIAV336K2Z2ZAUUWJGH"
-  secret_key = "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"
 
 }

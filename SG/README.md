@@ -14,7 +14,7 @@ Diseñado para soportar arquitecturas modernas, buenas prácticas de seguridad y
 - Security Groups
 - Self Rules
 - Prefix Lists
-- IPv4 & IPv6  
+- IPv4 & IPv6
 ✔️ Estructura limpia y lista para entornos empresariales  
 ✔️ Incluye etiquetas para gobernanza y trazabilidad  
 

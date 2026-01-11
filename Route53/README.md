@@ -7,12 +7,12 @@ Módulo Terraform **enterprise & reutilizable** para administrar recursos de **A
 
 ## 🚀 Características del Módulo  
 
-✔️ Compatible con **zonas públicas y privadas**
-✔️ Permite múltiples **registros DNS A, CNAME, AAAA, TXT, MX, SRV**
-✔️ Soporta **alias hacia Load Balancer, CloudFront, API Gateway, S3 Website**
-✔️ Estructura empresarial con etiquetas estándar
-✔️ Validaciones para evitar errores comunes
-✔️ Reutilizable para distintos entornos (**dev / qa / uat / prod**)
+- ✔️ Compatible con **zonas públicas y privadas**
+- ✔️ Permite múltiples **registros DNS A, CNAME, AAAA, TXT, MX, SRV**
+- ✔️ Soporta **alias hacia Load Balancer, CloudFront, API Gateway, S3 Website**
+- ✔️ Estructura empresarial con etiquetas estándar
+- ✔️ Validaciones para evitar errores comunes
+- ✔️ Reutilizable para distintos entornos (**dev / qa / uat / prod**)
 
 ---
 
